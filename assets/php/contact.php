@@ -1,5 +1,5 @@
 <?php
-
+// it will not work in github.
 if(isset($_POST['message'])){
 
 	$name = $_POST['name'];
